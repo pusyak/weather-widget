@@ -6,7 +6,7 @@ const CurrentWeather = ({data}) => {
             <div className="top">
                 <div>
                     <span className="city">{data.city}</span>
-                    <p className="description">{data.weather[0].description}</p>
+                    <p className="weather-description">{data.weather[0].description}</p>
                 </div>
                 <img src={`icons/${data.weather[0].icon}.png`} alt="weather" className="weather-icon"/>
             </div>

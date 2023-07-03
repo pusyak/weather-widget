@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.\[current-weather.css](..%2F..%2F..%2Freact-weather-app-main%2Fsrc%2Fcomponents%2Fcurrent-weather%2Fcurrent-weather.css)
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
